@@ -1,2 +1,2 @@
-# extract_annotation_from_pdf
-从pdf中获取注释，以及注释对应的word
+###从pdf中获取注释，以及对应的单词
+#Install
