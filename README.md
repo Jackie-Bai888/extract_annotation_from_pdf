@@ -1,4 +1,5 @@
-## 从pdf中获取标了注释的单词，目前实现的注释类型只有下划线
+## 介绍  
+从pdf中获取标了注释的单词，目前实现的注释类型只有下划线
 ## 代码文件为extracting_word_from_pdf.py
 # Install
 1.安装PyPDF4
