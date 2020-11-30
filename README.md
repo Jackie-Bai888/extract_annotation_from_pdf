@@ -14,3 +14,4 @@ pip install PyMuPDF
 # Note
 1.getting_word_from_pdf.py中的PDF_PATH、PDF_FILE_NAME、SAVE_WORD_FILE 需要替换成自己的  
 2.host中需要将client_id替换成应用的API Key，将client_secret替换成Secret Key
+![文字识别](https://github.com/xiaobailearn/extract_annotation_from_pdf/blob/main/%E8%B7%AF%E5%BE%84.png)
