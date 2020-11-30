@@ -1,4 +1,5 @@
-# 从pdf中获取注释，以及对应的单词
+# 从pdf中获取标了注释的单词
+## 代码文件为extracting_word_from_pdf.py
 # Install
 1.安装PyPDF4
 pip install PyPDF4  
